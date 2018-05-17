@@ -1,0 +1,2 @@
+数据标题：有关中文情感挖掘的酒店评论语料
+数据网址：http://www.datatang.com/datares/go.aspx?dataid=602123
